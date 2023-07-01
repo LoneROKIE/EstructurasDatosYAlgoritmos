@@ -1,0 +1,36 @@
+SACADO DE CHATGPT
+
+Las pilas (stacks) son estructuras de datos muy versátiles y se utilizan en una
+variedad de situaciones. Algunos casos comunes de uso de pilas incluyen:
+
+
+1.Gestión de llamadas a funciones: Las pilas se utilizan en muchos lenguajes de
+programación para manejar las llamadas a funciones. Cada vez que se llama a 
+una función, se guarda el estado actual (variables locales, direcciones de 
+retorno, etc.) en una pila. Cuando la función termina, se retira su estado de 
+la pila, lo que permite volver al punto de llamada anterior y continuar la 
+ejecución del programa.
+
+2.Evaluación de expresiones matemáticas: Las pilas se utilizan en la evaluación
+de expresiones matemáticas, como la conversión de una expresión en notación 
+infija a notación posfija (postfija) y la evaluación de la expresión posfija. 
+Las pilas permiten realizar un seguimiento del orden de las operaciones y 
+garantizar que se realicen correctamente.
+
+3.Navegación en profundidad (DFS): En algoritmos de búsqueda y recorrido de 
+grafos, como la búsqueda en profundidad (Depth-First Search, DFS), las pilas se 
+utilizan para rastrear los nodos visitados y su orden de exploración. Cada vez 
+que se visita un nuevo nodo, se coloca en la pila para explorar primero sus 
+vecinos antes de retroceder.
+
+4.Administración de memoria: En la gestión de memoria de programas, las pilas 
+se utilizan para almacenar datos locales, como variables y estructuras de 
+control, durante la ejecución de funciones y bloques. Esto permite un acceso 
+rápido y eficiente a las variables locales y su liberación automática cuando se 
+finaliza la función o el bloque.
+
+5.Revertir y deshacer operaciones: Las pilas se utilizan a menudo para 
+implementar la funcionalidad de deshacer y rehacer en editores de texto, 
+procesadores de texto y otras aplicaciones. Cada operación realizada se 
+almacena en una pila, lo que permite deshacer las operaciones en orden inverso 
+(desde la parte superior de la pila) y rehacerlas si es necesario.
