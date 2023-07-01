@@ -59,8 +59,4 @@ public class ListaEnlazada {
         */
         return tamanio;
     }
-    
-    
-    
-    
 }
